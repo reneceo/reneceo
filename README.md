@@ -1,8 +1,9 @@
 ### Rene Banuelos
 
-I build operating systems for professional-service firms — the kind made of
+I build operating systems for professional-service businesses — the kind made of
 software, AI and people in several countries, not the kind that boots a laptop.
-25+ years of it: ecommerce, SaaS, accounting, recruiting, logistics.
+25+ years of it: ecommerce, SaaS, accounting, recruiting, marketing,
+logistics, and more.
 
 Most of what I ship is private client work. What lands here is the occasional
 piece that was annoying enough to solve properly and general enough to give away.
